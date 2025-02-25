@@ -1,0 +1,12 @@
+#garrafas = 99
+Estudar {
+    TemTempo? (garrafas > 0) {
+        Apresentar garrafas," garrafas de cerveja na parede, ",garrafas," garrafas de cerveja."
+        Apresentar "Tire uma do chão, passe-a para frente."
+        garrafas = garrafas - 1
+        Apresentar garrafas," garrafas de cerveja na parede."
+    }
+    NaoDeu {
+        Terminei
+    }
+}

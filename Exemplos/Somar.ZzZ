@@ -1,0 +1,17 @@
+Questao Somar(num1, num2) {
+    Responder num1 + num2
+}
+
+#x = 0
+#y = 0
+#resultado = 0
+
+Apresentar "Digite o primeiro número:"
+Anotar em x
+
+Apresentar "Digite o segundo número:"
+Anotar em y
+
+#resultado = Somar(x, y)
+
+Apresentar "A soma é: ", resultado
