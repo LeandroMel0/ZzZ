@@ -7,6 +7,10 @@ A linguagem **ZzZ** foi projetada para simular a vida de um universitário, incl
 - Blocos são delimitados por `{ }`.
 - O programa pode "dormir" aleatoriamente, imprimindo `ZzZzZzZzZzZzZzZzZzZ` e aguardando qualquer entrada para continuar.
 
+## 1.1. Desenvolvedores
+- [Leandro Melo](https://github.com/LeandroMel0)
+- [Nicole Souza](https://github.com/nicolesouzab) 
+
 ## 2. Declaração de Variáveis
 As variáveis começam com `#` e não possuem tipo explícito. Não podem ser inicializadas sem um valor inicial:
 ```ZzZ
